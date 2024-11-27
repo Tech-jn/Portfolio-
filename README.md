@@ -30,12 +30,12 @@ This is my simple portfolio
   <div class="project">
     <h3>Project 1: Personal To-Do App</h3>
     <p>A simple app to manage daily tasks using JavaScript and CSS.</p>
-    <a href="https://github.com/YourGithubUsername/todo-app" target="_blank">View on GitHub</a>
+    <a href="https://github.com/Tech-jn/Portfolio-.git">View on GitHub</a>
   </div>
   <div class="project">
     <h3>Project 2: Portfolio Website</h3>
     <p>A responsive portfolio website showcasing my skills and work.</p>
-    <a href="https://github.com/YourGithubUsername/portfolio" target="_blank">View on GitHub</a>
+    <a href="https://github.com/Tech-jn/Portfolio-.git" target="_blank">View on GitHub</a>
   </div>
   </section>
   <footer>
